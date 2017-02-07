@@ -1,0 +1,21 @@
+.larger-text {
+  font-size: 50px;font-weight: bolder;
+}
+.teal {
+  color: #6fbbb7;
+}
+.red {
+  color: red;
+}
+body {
+  background-color: #727d84; color: white;
+}
+.remove-underline {
+  text-decoration: none
+}
+.reg-text {
+  font-size: 20px; font-style: italic;
+}
+.inline {
+  display:inline;
+}
